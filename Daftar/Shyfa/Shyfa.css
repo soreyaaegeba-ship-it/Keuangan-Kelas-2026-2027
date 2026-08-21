@@ -127,6 +127,7 @@
     color:white;
     font-size:18px;
     z-index:8;
+    white-space:nowrap;
 }
 
 .teks2{
@@ -136,6 +137,7 @@
     color:white;
     font-size:18px;
     z-index:8;
+    white-space:nowrap;
 }
 
 .teks3{
@@ -145,6 +147,7 @@
     color:white;
     font-size:18px;
     z-index:8;
+    white-space:nowrap;
 }
 
 .teks4{
@@ -154,6 +157,7 @@
     color:white;
     font-size:18px;
     z-index:8;
+    white-space:nowrap;
 }
 
 .teks5{
@@ -163,6 +167,7 @@
     color:white;
     font-size:18px;
     z-index:8;
+    white-space:nowrap;
 }
 
 body {
@@ -174,6 +179,8 @@ body {
     background-position: center;
 
     font-family: Consolas, 'Courier New', monospace;
+    -webkit-text-size-adjust: 100%;
+    text-size-adjust: 100%;
 }
 
 .grafik{
